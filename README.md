@@ -10,6 +10,6 @@ This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP,
 - Integrated Orderbook(Hybrid)
 
 ### Feel free to contract me, 
-[Telegram](https://t.me/rhettjel) 
-[Twitter](https://t.me/defai_maxi) 
+[Telegram](https://t.me/defai_maxi) 
+[Twitter](https://x.com/defai_maxi) 
 
